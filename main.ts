@@ -1,4 +1,5 @@
 // Worst AI Advice: The 48-Hour Tight Line Open — make.fun entry.
+// One line of deliberately terrible advice, in the confident voice of an AI assistant.
 // Writes this entry's single line of worst AI advice to /output/entry.txt.
 // Gate: UTF-8 text, 1-140 characters, not only whitespace. This line is 103.
 import { mkdirSync, writeFileSync } from "node:fs";
